@@ -8,7 +8,7 @@
 ## 7. Spring
 ## 8. MySQL与MyBatis
 ## 9. 缓存与Redis
-## 10. MQ
+## 10. 队列
 ## 11. Nginx
 ## 12. OkHttp与Retrofit
 ## 13. ES
@@ -18,4 +18,4 @@
 ## 17. Spirng Cloud
 ## 18. Dubbo
 ## 19. ZooKeeper
-## 20. Docker与k8s
+## 20. Docker
